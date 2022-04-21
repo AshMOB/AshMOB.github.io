@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ashmob.github.io/</id>
     <title>MOBval</title>
-    <updated>2022-04-21T10:21:16.485Z</updated>
+    <updated>2022-04-21T10:21:55.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ashmob.github.io/"/>
     <link rel="self" href="https://ashmob.github.io/atom.xml"/>
@@ -16,7 +16,8 @@
         <link href="https://ashmob.github.io/post/30days-cao-zuo-xi-tong-day1/">
         </link>
         <updated>2022-04-21T09:51:35.000Z</updated>
-        <content type="html"><![CDATA[<p>环境：</p>
+        <content type="html"><![CDATA[<h1 id="30days操作系统day1">30days操作系统day1</h1>
+<p>环境：</p>
 <p>​	win10  64位专业版</p>
 <p>​</p>
 <h2 id="试运行">试运行</h2>
