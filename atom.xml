@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ashmob.github.io/</id>
     <title>MOBval</title>
-    <updated>2022-04-21T10:00:31.905Z</updated>
+    <updated>2022-04-21T10:19:45.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ashmob.github.io/"/>
     <link rel="self" href="https://ashmob.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://ashmob.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, MOBval</rights>
     <entry>
-        <title type="html"><![CDATA[30days操作系统day1]]></title>
+        <title type="html"><![CDATA[30days操作系统]]></title>
         <id>https://ashmob.github.io/post/30days-cao-zuo-xi-tong-day1/</id>
         <link href="https://ashmob.github.io/post/30days-cao-zuo-xi-tong-day1/">
         </link>
@@ -22,7 +22,7 @@
 <p>​</p>
 <h2 id="试运行">试运行</h2>
 <p>​	书上正式开始首先要求能运行这个系统</p>
-<p>​	去官网http://hrb.osask.jp/下好所需文件</p>
+<p>​	去官网<code>http://hrb.osask.jp/</code>下好所需文件</p>
 <pre><code>![image-20220420133250533](https://cdn.jsdelivr.net/gh/AshMOB/md_picture/202204201332583.png)
 </code></pre>
 <p>​			<img src="https://cdn.jsdelivr.net/gh/AshMOB/md_picture/202204201333162.png" alt="image-20220420133302133" loading="lazy"></p>
